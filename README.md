@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-this project is for python projects and so on at ALX school
+Python 0x0 Hello world!
